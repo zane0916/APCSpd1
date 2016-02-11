@@ -32,10 +32,10 @@ public class GuessNumber
     public GuessNumber( int a, int b ) 
     {
 	// assumes a is the lower bound and b is upper bound
-	_lo = a;
-	_hi = b;
+	_lo = Math.min(a,b);
+	_hi = Math.max(a,b);
 	_guessCtr = 1;
-	_target = (int) (Math.random() * (_hi + 1) + _lo);
+	_target = (int) (Math.random() * (_hi - _lo + 1) + _lo);
     }
     
     
