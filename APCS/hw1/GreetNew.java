@@ -6,12 +6,12 @@
 import java.util.Random;
 
 public class GreetNew {
-	public static void main( String[] args ){
-		String a = "Zane"
-		String b = "Kevin"
-		String c = "Amanda"
+    public static void main( String[] args ){
+	    String a = "Zane";
+	    String b = "Kevin";
+	    String c = "Amanda";
 	Random rand = new Random();
-	String = rand.next
+	String = rand.next;
 
 	System.out.println("Why, hello there, " + rand + ". How do you do?"
 	}
