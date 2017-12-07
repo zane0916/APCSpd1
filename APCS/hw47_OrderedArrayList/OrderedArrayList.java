@@ -4,6 +4,10 @@
  * Imposes the restriction that stored items 
  * must remain sorted in ascending order
  ********************************/
+// Zane Wang
+// APCS1 pd1
+// HW47 -- ascenDING
+// 2017-12-05
 
 //ArrayList's implementation is in the java.util package
 import java.util.ArrayList;
