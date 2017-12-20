@@ -37,7 +37,10 @@
   * Develop 1 fxn at a time, test it, then move to next.
   * For coding today, what extra code do you need to get past compiler?
   ====================================================================*/
-
+// Zane Wang
+// APCS1 pd1
+// HW56 -- His Toe Grammar
+// 2017-12-18 M
 import java.util.ArrayList;
 
 
